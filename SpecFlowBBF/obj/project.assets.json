@@ -6679,11 +6679,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vusi.Mngomezulu\\source\\repos\\SpecFlowBBF\\SpecFlowBBF\\SpecFlowBBF.csproj",
+      "projectUniqueName": "C:\\Users\\Vusi.Mngomezulu\\source\\repos\\BasicSelenium-SpecFlow\\SpecFlowBBF\\SpecFlowBBF.csproj",
       "projectName": "SpecFlowBBF",
-      "projectPath": "C:\\Users\\Vusi.Mngomezulu\\source\\repos\\SpecFlowBBF\\SpecFlowBBF\\SpecFlowBBF.csproj",
+      "projectPath": "C:\\Users\\Vusi.Mngomezulu\\source\\repos\\BasicSelenium-SpecFlow\\SpecFlowBBF\\SpecFlowBBF.csproj",
       "packagesPath": "C:\\Users\\Vusi.Mngomezulu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vusi.Mngomezulu\\source\\repos\\SpecFlowBBF\\SpecFlowBBF\\obj\\",
+      "outputPath": "C:\\Users\\Vusi.Mngomezulu\\source\\repos\\BasicSelenium-SpecFlow\\SpecFlowBBF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vusi.Mngomezulu\\AppData\\Roaming\\NuGet\\NuGet.Config",
